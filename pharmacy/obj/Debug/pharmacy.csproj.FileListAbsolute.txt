@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe.config
+C:\Users\dell\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.exe
+C:\Users\dell\source\repos\pharmacy\pharmacy\bin\Debug\pharmacy.pdb
+C:\Users\dell\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.exe
+C:\Users\dell\source\repos\pharmacy\pharmacy\obj\Debug\pharmacy.pdb
